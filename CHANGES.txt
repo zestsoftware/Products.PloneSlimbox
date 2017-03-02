@@ -4,6 +4,11 @@ Changelog
 0.7.2.zest.2 (unreleased)
 -------------------------
 
+- Update Slimbox2 to version 2.05.
+  Pull request #3.
+  This fixes a problem on Plone 4.3 where the overlay was graying out the popup.
+  [mitakas]
+
 - Fixed MANIFEST.in to include all files.
   Previous release was fine, but relied on the setuptools-git package.
   [maurits]
