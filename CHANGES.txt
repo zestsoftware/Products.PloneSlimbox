@@ -1,7 +1,7 @@
 Changelog
 =========
 
-0.7.2.zest.2 (unreleased)
+0.7.2.zest.2 (2017-03-02)
 -------------------------
 
 - Update Slimbox2 to version 2.05.
