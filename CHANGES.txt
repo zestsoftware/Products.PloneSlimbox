@@ -1,8 +1,12 @@
 Changelog
 =========
 
-0.7.2 (unreleased)
-------------------
+0.7.2.zest.1 (2013-05-27)
+-------------------------
+
+- Publish internal release to http://pypi.zestsoftware.nl/public/
+  [vpretre]
+
 - Simplified get_plone_version so it can handle incoming
   Plone versions.
   [vpretre]
